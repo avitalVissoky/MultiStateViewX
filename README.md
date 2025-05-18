@@ -101,7 +101,11 @@ MultiStateNavigator.finishWithTransition(this, TransitionType.FADE);
 ---
 
 ## Screenshots
-_Add screenshots here showing each state (optional)_
+
+<div>
+<img src="https://github.com/user-attachments/assets/aca745b9-5206-4fe7-b320-114647787c56"style="height:400px;"/>
+<img src="https://github.com/user-attachments/assets/021295a5-d08f-47d0-8baf-7a5fdcb02beb"style="height:400px;"/>
+</div>
 
 ---
 
@@ -110,6 +114,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Happy coding ♥
+Happy coding!
 
 > Made with ♥ and ☕ by Avital Iskhakov
